@@ -110,8 +110,8 @@ jupyter notebook
 ## Output
 
 Stitched images will be saved in the `Stitched/` subfolder within your mouse folder, with filenames:
-- `{mouse_name}_s1.tif`
-- `{mouse_name}_s2.tif`
+- `{mouse_name}_s0001.tif`
+- `{mouse_name}_s0002.tif`
 - etc.
 
 ## Parameters
